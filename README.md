@@ -2,6 +2,7 @@ I'm not 100% sure this is a grunt-noflo-browser issue, but the graph runs just f
 
 ## steps to reproduce:
 
+0. clone [this repo](https://github.com/amonks/noflo-grunt-error)
 1. run `npm install` then `grunt`.
 2. serve dist/main.html and open it in a browser.
 
