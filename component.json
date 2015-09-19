@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "noflo/noflo": "*",
+    "noflo/noflo-core": "*"
+  },
+  "noflo": {
+    "graphs": {
+      "main": "graphs/main.json"
+    }
+  },
+  "scripts": [
+    "index.js",
+    "graphs/main.json"
+  ],
+  "json": [
+    "graphs/main.json",
+    "component.json"
+  ]
+}
